@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\102190314_PhamThanhHoi.exe.config
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\102190314_PhamThanhHoi.exe
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\102190314_PhamThanhHoi.pdb
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\102190314_PhamThanhHoi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\_102190314_PhamThanhHoi.Properties.Resources.resources
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\_102190314_PhamThanhHoi.View.PhamThanhHoi_DF.resources
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\102190314_PhamThanhHoi.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\102190314_PhamThanhHoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\102190314_PhamThanhHoi.csproj.CopyComplete
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\102190314_PhamThanhHoi.exe
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\102190314_PhamThanhHoi.pdb
+C:\Users\Admin\source\repos\102190314_PhamThanhHoi\obj\Debug\_102190314_PhamThanhHoi.View.PhamThanhHoi_MF.resources
